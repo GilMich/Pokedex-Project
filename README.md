@@ -24,11 +24,11 @@ sh
 Copy code
 ./pokedex
 # Features
-Create Pokémon: allocate space, Allows users to create a new Pokémon with attributes such as name, type, HP, attack, defense, speed, special attack, and special defense.
+ץCreate Pokémon: allocate space, Allows users to create a new Pokémon with attributes such as name, type, HP, attack, defense, speed, special attack, and special defense.
 
-Print Pokémon: Prints the details of a Pokémon to the console.
+ץPrint Pokémon: Prints the details of a Pokémon to the console.
 
-Add another Pokemon to the list of 'effective against me' current Pokemon
+ץAdd another Pokemon to the list of 'effective against me' current Pokemon.
 
-Delete Pokemon: Delete the Pokemon and deallocates the pokemon space.
+ץDelete Pokemon: Delete the Pokemon and deallocates the pokemon space.
 
